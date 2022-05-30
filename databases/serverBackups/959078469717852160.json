@@ -1,0 +1,81 @@
+{
+    "name": "Only YassineHzz",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL_MESSAGES",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "ticket",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "ticket",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "general",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "General",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "Support",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071698660929",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1648732525997,
+    "guildID": "955427601697079306",
+    "id": "959078469717852160",
+    "iconBase64": "UklGRkIDAABXRUJQVlA4IDYDAAAQEgCdASqAAIAAPm02lkikIqIhJJVZKIANiWkAfuGhMtsB4lHTs5ZQ96/VeIHeDKB4JaQKZf4zfpr2DujYM1oUwAEj6clXoUmmfRChE1krSkRgOBdgGM7fyVGxyFRLMYmcp7IEwKheGx5Bb53m4am3pwgD7OD4gTBsixyGOYxLdSga/G9w7D7ffJe7QeZbM839w7GmGwIBlMAA/vytEAHvTK853071h/Q6dA1TYmHE8KTsRSJ+7YV3zJ+tLjhJ64hnXdi2kyYi5zKsPg9hHxC6a56nwccgC+Ru4x34Wba+vX1I9vdOROtodH1D+HXWfcpwDQvvCJv4G6pTe7eqklu0qw8rKNyLHgpiAft2t3GBJEZZyMIMfpZz/+Ow+Dx+FI9BW50cnEnS7YyynLkaQT1Rd51/YADZmgrwdti85XrkPrrb0tnhAdJiJ4uAp2bGoYaRSaKgQx7GRkCRyrrsO4hRyoGY41OGXj4xqcV3HT/eeu/4ZGBzjYymiBMwDnKyhngqhmNA+WI3dtyjOIPx8HyvaC8mgJhWOQf8VfhRgiLN+iVsslTh9yvDbsL72Aa+VQhP/w2PHBVVBEQ7iL9Zn8cfEx4Y/ktu3mbBKAuW+Ioycl/I94myt1DswZcYbhqm+lK4SvvqwTPd+2f+jzosOqJ4k/tmmWfiswuIvt9NTUrYx8TaREAXr2BZ6r3fqbZjSisJj1nuW5PEWSFzG3821ernbqNcaL05IdkCh+HPQ8L5fbWB+EX0Jkh8vkPSdkO6xPzR4q0ouTH7kdVWZtzyrIgGRKNc9X3Gb66Kq1szsl+SnQ653eTd01G2QH6TYzcc+TeisJVanXWBQop7o9oSO+3M63J+zp3GBF/steEYKE52wL+lAayJ5un63BlzbRO4g3zshprFL5jBMuiRe6CswIppdi2nWwpkGCxHZ0E8fps8orv/CA2/ye7vO7cbdDxc0I1dkHUpWM3cyC/8368eLnv/0VBVQ6UwS1W8fHzvxvGwaY8mWai7OvLOJOOELenjyqcEa2pUTxhxfG/aoW1fPu49ZRuvZDahCSg44IrD/y04lCL9kh8BLna6uocBDNjEmVkMoAAAAAA=",
+    "iconURL": "https://cdn.discordapp.com/icons/955427601697079306/d3c245427a59a0cc43e48b3f18aab6fa.webp"
+}
